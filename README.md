@@ -1,6 +1,8 @@
 # Company_Absenteeism_Problem
 Predicting company absenteeism while integrating Python, SQL, Tableau (Python)
 
+
+
 ## Defining the Problem
 This project will address Absenteeism at a company during a work day.
 
@@ -107,3 +109,14 @@ To look at one of the negative coefficients, i.e. `Pets`, the odds are 1-0.75967
 
 #### Test the model
 Based on the data the model has never seen before (test set), in ~74% (.7357) of the cased, the model will predict (correctly) if the person is going to be excessively absent.
+
+## Integrate Data into MySQL Workbench
+
+INSERT MySQL WORKBENCH LOGO
+
+## Visualize Insights for the Business in Tableau
+
+INSERT TABLEAU LOGO
+
+
+
