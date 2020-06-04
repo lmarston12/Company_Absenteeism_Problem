@@ -114,10 +114,11 @@ Based on the data the model has never seen before (test set), in ~74% (.7357) of
 
 ![](images/mysql_logo.png)
 
-![](images/ )
+![](images/SQLscreenshot.png)
 
 ## Visualize Insights for the Business in Tableau
 
-![](images/tableau-logo.png)
+![](images/tableau-logo.jpg)
 
-
+Click link `here` to see Viz in Tableau Public
+(Link to be added shortly)
