@@ -1,8 +1,8 @@
 # Company_Absenteeism_Problem
 Predicting company absenteeism while integrating Python, SQL, Tableau (Python)
 
-Author: Luke Marston
-Contact: lmarston2017@gmail.com
+* Author: Luke Marston
+* Contact: lmarston2017@gmail.com
 
 ![](images/AbsenteeismCartoon.png)
 
@@ -91,10 +91,10 @@ Based on the data used, the model is able to classify ~78% (.775) of the observa
 
 #### Interpreting the model coefficients
 
-INSERT TABLE HERE!!!
+![](images/CoefficientList.png)
 
 The further away form 0 a coefficient is, the more important it is.
-We see that the features with the highest coefficients (most important) are at the top. `Reason_3`, `Reason_1`, `Reason_3`, `Reason_4`, `Transportation Expense`, etc.
+We see that the features with the highest coefficients (most important) are at the top. `Reason_3`, `Reason_1`, `Reason_2`, `Reason_4`, `Transportation Expense`, etc.
 
 A reminder that these "Reason" are as follows:
 * Poisoning
