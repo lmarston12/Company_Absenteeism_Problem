@@ -1,6 +1,9 @@
 # Company_Absenteeism_Problem
 Predicting company absenteeism while integrating Python, SQL, Tableau (Python)
 
+Author: Luke Marston
+Contact: lmarston2017@gmail.com
+
 ![](images/AbsenteeismCartoon.png)
 
 ## Defining the Problem
@@ -121,4 +124,4 @@ Based on the data the model has never seen before (test set), in ~74% (.7357) of
 ![](images/tableau-logo.jpg)
 
 Click link [here](https://public.tableau.com/profile/luke.marston#!/) to see Viz in my Tableau Public account (Lucas Marston)
-(Link to be added shortly)
+
