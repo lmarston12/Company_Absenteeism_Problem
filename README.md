@@ -1,7 +1,7 @@
 # Company_Absenteeism_Problem
 Predicting company absenteeism while integrating Python, SQL, Tableau (Python)
 
-
+![](images/AbsenteeismCartoon.png)
 
 ## Defining the Problem
 This project will address Absenteeism at a company during a work day.
@@ -112,11 +112,12 @@ Based on the data the model has never seen before (test set), in ~74% (.7357) of
 
 ## Integrate Data into MySQL Workbench
 
-INSERT MySQL WORKBENCH LOGO
+![](images/mysql_logo.png)
+
+![](images/ )
 
 ## Visualize Insights for the Business in Tableau
 
-INSERT TABLEAU LOGO
-
+![](images/tableau-logo.png)
 
 
