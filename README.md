@@ -120,5 +120,5 @@ Based on the data the model has never seen before (test set), in ~74% (.7357) of
 
 ![](images/tableau-logo.jpg)
 
-Click link `here` to see Viz in Tableau Public
+Click link [here](https://public.tableau.com/profile/luke.marston#!/) to see Viz in my Tableau Public account (Lucas Marston)
 (Link to be added shortly)
